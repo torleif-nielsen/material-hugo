@@ -9,6 +9,7 @@
   "author": "Torleif Nielsen",
   "license": "MIT",
   "dependencies": {
+    "javascript-brunch": "^2.0.0",
     "material-design-lite": "^1.2.1",
     "sass-brunch": "^2.6.3"
   }
