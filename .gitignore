@@ -3,7 +3,8 @@
 ### Hugo ###
 hugo.exe
 /public/
-
+/static/app.css
+/static/app.css.map
 ### Linux ###
 *~
 
